@@ -1,6 +1,5 @@
 spring:
-   application:
-   name: application-default
+   
    jpa:
     hibernate:
       ddl-auto: update
